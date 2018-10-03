@@ -42,7 +42,7 @@
 			<form action="update.php" method="post">
 
 				<div class="form-group">
-					<input type="text" class="form-control" name="address" id="address" value="Sri Lankan Institute of Information Technology`">
+					<input type="text" class="form-control" name="address" id="address" value="Sri Lankan Institute of Information Technology">
 				</div>
 
 				<div class="form-group">
