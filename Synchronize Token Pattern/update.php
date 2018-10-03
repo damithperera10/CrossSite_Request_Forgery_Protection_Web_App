@@ -49,9 +49,9 @@ if(isset($_POST['address'], $_POST['hiddenToken'])){
 
 			<?php
                 if($valid){
-                    echo '<h2 style="color:green;">Token Matched! Update Success! </h2>';
+                    echo '<h2 style="color:green;">Update Success! </h2>';
                 }else {
-                    echo '<h2 style="color:red;">Token Error! Update Fail! </h2>';
+                    echo '<h2 style="color:red;">Update Fail! </h2>';
                 }
             ?>
 
