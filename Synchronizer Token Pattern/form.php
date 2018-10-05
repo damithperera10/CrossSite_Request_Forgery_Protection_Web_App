@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	<title>Synchronize Token Parrern</title>
+	<title>Synchronizer Token Pattern</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -30,7 +30,7 @@
 <body>
 
 	<div class="jumbotron text-center">
-		<h2>Synchronize Token Pattern</h2>
+		<h2>Synchronizer Token Pattern</h2>
 	</div>
 
 	<div class="container">
